@@ -5,8 +5,6 @@ repo_url: https://github.com/zentarilabs/pods-and-clues
 repo_name: pods-and-clues
 theme:
   name: material
-  logo: assets/zentari-z.svg
-  favicon: assets/favicon.png
   features:
     - navigation.tabs
     - navigation.top
@@ -25,16 +23,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Training Modules:
-      - Module 001: modules/001-namespace-basics.md
   - Cases:
-      - Case 000: cases/case-000.md
-
-  - Behind the Scenes:
-      - The Zentari Labs Program: extras/nova-program.md
-
-extra_css:
-  - styles/custom.css
+    - Case 000: cases/case-000.md
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/typeit@8.7.1/dist/index.umd.min.js
