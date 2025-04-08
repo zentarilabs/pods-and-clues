@@ -31,7 +31,6 @@ nav:
       - Case 000 - The Curious Ones: cases/case-000.md
 
   - Behind the Scenes:
-      - Meet the Interns: extras/interns.md
       - The Zentari Labs Program: extras/nova-program.md
 
 extra_css:
