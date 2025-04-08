@@ -1,8 +1,7 @@
 site_name: Pods and Clues
 site_description: A narrative-driven Kubernetes training series set inside Zentari Labs
 site_url: https://www.podsandclues.com
-repo_url: https://github.com/zentarilabs/pods-and-clues
-repo_name: pods-and-clues
+
 theme:
   name: material
   features:

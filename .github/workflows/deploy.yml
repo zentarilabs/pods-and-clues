@@ -3,10 +3,10 @@ name: Deploy MkDocs Site
 on:
   push:
     branches:
-      - main  # or change this to your default branch
+      - main
 
 permissions:
-  contents: write  # Required to push to gh-pages branch
+  contents: write
 
 jobs:
   deploy:
