@@ -11,6 +11,7 @@ Follow Renzo, Zara, and Dev, three curious interns, as they step into a sleek, i
 ![Pods and Clues Cover Art](assets/homepage/cover-art.png)
 
 Through each case, you'll:
+
 * Learn real Kubernetes skills
 * Solve immersive mysteries
 * Uncover the hidden truth behind Project Nova
@@ -20,6 +21,7 @@ Through each case, you'll:
 ## 📦 What Is *Pods and Clues*?
 
 *Pods & Clues* is an interactive learning story that blends:
+
 * 📘 Kubernetes Certification (CKAD) content
 * 🧩 Visual storytelling and comics
 * 🧠 Technical mysteries and terminal-based training
