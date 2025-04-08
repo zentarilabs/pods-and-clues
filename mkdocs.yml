@@ -16,11 +16,12 @@ theme:
     - toc.integrate
   palette:
     - scheme: default
-      primary: blue
-      accent: teal
+      primary: custom
   font:
     text: Inter
     code: JetBrains Mono
+  extra-css:
+    - stylesheets/extra.css
 
 nav:
   - Home: index.md
