@@ -1,0 +1,32 @@
+name: Deploy MkDocs Site
+
+on:
+  push:
+    branches:
+      - main  # or change this to your default branch
+
+permissions:
+  contents: write  # Required to push to gh-pages branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs-material mkdocs-autorefs mkdocs-minify-plugin
+
+      - name: Build and deploy
+        run: |
+          mkdocs gh-deploy --force
+
