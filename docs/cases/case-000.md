@@ -1,6 +1,10 @@
 # Case 000: The Curious Ones
 
-*Zentari Labs | Lobby | 8:40 AM*
+---
+
+## Zentari Labs | Lobby | 8:40 AM
+
+---
 
 Renzo stepped into Zentari Labs for the first time, his eyes wide as he scanned the chrome and glass lobby bathed in soft blue light. Next to him, Inspector Pupps sat alert but calm, his golden curls catching the morning light from the floor to ceiling windows.
 
@@ -24,7 +28,11 @@ Zara gave him a polite, distant nod, then glanced at the shared email. *Floor 22
 
 After checking in, they followed a glowing line on the floor marked “Elevators.” The hallway curved ahead, all glass and polished steel, reflecting more light than felt natural. Renzo kept pace, his fingers brushing the strap of his backpack. The silence wasn’t threatening, just heavy with expectation. Like the building was holding its breath. Or maybe he was.
 
-*Zentari Labs | Elevator | 8:45 AM*
+---
+
+## Zentari Labs | Elevator | 8:45 AM
+
+---
 
 Zara stepped forward and tapped the number 22. The touchscreen lit up, a glowing blue ring swirling around it as the trio entered and the doors slid shut.
 
@@ -36,7 +44,11 @@ Dev leaned forward, eyes scanning the glowing panel. *Crazy, right? Out of every
 
 The elevator chimed. Floor 22.
 
-*Zentari Labs | Training Room | 8:50 AM*
+---
+
+## Zentari Labs | Training Room | 8:50 AM
+
+---
 
 As the doors slid open, a glowing hallway stretched out, white walls, blue floor lights pulsing gently. A single line of text glowed near the floor:
 
