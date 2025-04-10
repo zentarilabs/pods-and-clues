@@ -10,6 +10,8 @@ Renzo stepped into Zentari Labs for the first time, his eyes wide as he scanned 
 
 Every surface whispered, "You don’t belong here unless you’re brilliant."
 
+![Renzo in awe of the Zentari Labs Lobby](../assets/case-000/scene-1.png)
+
 Renzo adjusted the strap on his bookbag, nerves prickling beneath his skin. He glanced down at Pupps, who gave a soft, grounding huff.
 
 The sharp tap of sneakers on polished tile drew his attention behind him.
@@ -23,6 +25,8 @@ Before the silence settled too heavily, the lobby doors opened again.
 Dev stepped in, hoodie layered over a collared shirt, slacks slightly wrinkled, and a bag packed like he was staying the night. His eyes lit up at the sight of the others.
 
 "Yo! Project Nova? Right?" Dev said, offering a fist bump to Renzo. Renzo returned it, a bit stiffly.
+
+![Dev fistbumps Renzo for the first time](../assets/case-000/scene-2.png)
 
 Zara gave him a polite, distant nod, then glanced at the shared email. "Floor 22" she said. "That’s where we’re headed."
 
@@ -42,6 +46,8 @@ He could feel the difference between them. Dev seemed like the type who made fri
 
 Dev leaned forward, eyes scanning the glowing panel. "Crazy, right? Out of everyone… why us?" Renzo nodded, but Zara didn’t look up.
 
+![Dev excitedly talking with Renzo about the internship in the elevator](../assets/case-000/scene-3.png)
+
 The elevator chimed. Floor 22.
 
 ---
@@ -54,6 +60,8 @@ As the doors slid open, a glowing hallway stretched out, white walls, blue floor
 
 Only the curious get chosen.
 
+![First view of the training room](../assets/case-000/scene-4.png)
+
 Dev stepped out first, grinning. "I like the vibes already."
 
 The room was a spacious training floor with individual desks, each with a Zentari laptop. Renzo counted eight in total. 
@@ -62,7 +70,9 @@ The room was a spacious training floor with individual desks, each with a Zentar
 
 Zara didn’t turn. "Eight total. We’re just early."
 
-Renzo slid into the seat farthest from the door. Pupps curled up beside his chair without a sound. Zara took the spot two seats down. Dev sat between them. Four other interns stepped into the room. Some walked directly to their laptops. Others hovered, scanning the space like they weren’t sure where to sit. No one said much. Then came the last: a tall girl with silver glasses and a giant bun of coiled braids. She gave a polite nod to no one in particular and made her way to a desk at the far end.
+Renzo slid into the seat farthest from the door. Pupps curled up beside his chair without a sound. Zara took the spot two seats down. Dev sat between them. Four other interns stepped into the room. Some walked directly to their laptops. Others hovered, scanning the space like they weren’t sure where to sit. No one said much. Then came the last: a tall girl with silver glasses with a low side braid. She gave a polite nod to no one in particular and made her way to a desk at the far end.
+
+![8th intern enters the training room](../assets/case-000/scene-5.png)
 
 As the final intern stepped into the room, the lights dimmed. A soft chime echoed overhead. Then, with quiet confidence, a sharply dressed man entered behind them. He moved to the center of the room, raised a hand, and the space responded. A glowing “Z” emblem shimmered into view, slowly rotating before unfolding into a full holographic display.
 
@@ -89,9 +99,12 @@ Renzo stared at the screen. Next to him, Dev was already typing. Zara was skimmi
 Renzo exhaled. He tapped the trackpad. The screen blinked to life.
 
 *Welcome to Zentari Labs*
+
 *Press ENTER to begin the training module...*
 
-He hovered over the key, then pressed it.
+He nervously pressed ENTER.
+
+![Renzo entering his first training module on his laptop](../assets/case-000/scene-6.png)
 
 Pupps sat down beside him, calm and watchful. Like he already knew: something was already beginning.
 
@@ -110,7 +123,7 @@ D. What is a cohort?
 <details><summary>Answer</summary><strong>C — Cohort 4</strong></details>
 ---
 
-**1. What does `kubectl` stand for?**  
+**2. What does `kubectl` stand for?**  
 A. Kubernetes Cluster Tool  
 B. Kubernetes Container Loader  
 C. Kubernetes Core Terminal
@@ -118,7 +131,7 @@ D. Kubernetes Control
 <details><summary>Answer</summary><strong>D — Kubernetes Control</strong></details>
 ---
 
-**2. What is the recommended way to pronounce `kubectl`?**  
+**3. What is the recommended way to pronounce `kubectl`?**  
 A. kube cuddle  
 B. kube see tee ell 
 C. kube control 
