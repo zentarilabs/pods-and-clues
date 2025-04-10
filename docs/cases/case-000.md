@@ -117,3 +117,7 @@ B. kube control
 C. kube see tee ell  
 D. kubey tool
 <details><summary>Answer</summary><strong>C — kube see tee ell</strong></details>
+
+To continue your journey:
+
+👉 [**Enter Training Module 001 – What is Kubernetes and Namespaces**](training-module/tm-001.md)
