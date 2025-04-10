@@ -61,7 +61,7 @@
 </style>
 
 
-
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 <script>
   let totalQuestions = 0;
   let correctAnswers = 0;
@@ -111,8 +111,11 @@
       scoreBlock.id = "quiz-score";
       scoreBlock.style.marginTop = "2rem";
       scoreBlock.innerHTML = `
-        <p><strong>Score:</strong> <span id="score-count">0</span> / ${totalQuestions}</p>
-        <button onclick="resetQuiz()" class="quiz-submit">Reset Quiz</button>
+        <p><strong>Score:</strong> <span id="score-count">0%</span></p>
+        <div id="score-bar-container" style="background: #ddd; border-radius: 5px; height: 20px; max-width: 300px;">
+          <div id="score-bar" style="background: var(--md-primary-fg-color); width: 0%; height: 100%; border-radius: 5px; transition: width 0.5s ease;"></div>
+        </div>
+        <button onclick="resetQuiz()" class="quiz-submit" style="margin-top: 1rem;">Reset Quiz</button>
       `;
       container.appendChild(scoreBlock);
     } catch (err) {
@@ -122,7 +125,7 @@
   }
 
   function checkAnswer(id, correct, type) {
-    if (answeredQuestions.has(id)) return;  // Prevent resubmission
+    if (answeredQuestions.has(id)) return;
 
     const feedback = document.getElementById(`${id}-feedback`);
     const submitBtn = document.getElementById(`${id}-submit`);
@@ -154,13 +157,32 @@
     answeredQuestions.add(id);
     localStorage.setItem(`quiz-${id}`, userAnswer);
 
-    // Disable input and submit
     submitBtn.disabled = true;
     const inputs = document.querySelectorAll(`#${id}-input input`);
     inputs.forEach(i => i.disabled = true);
 
-    // Update score
-    document.getElementById("score-count").textContent = correctAnswers;
+    updateScore();
+  }
+
+  function updateScore() {
+    const percent = Math.round((correctAnswers / totalQuestions) * 100);
+    document.getElementById("score-count").textContent = `${percent}%`;
+    const scoreBar = document.getElementById("score-bar");
+    if (scoreBar) {
+      scoreBar.style.width = `${percent}%`;
+    }
+
+    if (percent === 100) {
+      launchConfetti();
+    }
+  }
+
+  function launchConfetti() {
+    confetti({
+      particleCount: 200,
+      spread: 90,
+      origin: { y: 0.6 }
+    });
   }
 
   function resetQuiz() {
