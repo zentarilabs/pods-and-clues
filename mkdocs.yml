@@ -22,6 +22,9 @@ theme:
     text: Inter
     code: JetBrains Mono
 
+extra_javascript:
+  - js/cloudflare-analytics.js
+
 markdown_extensions:
   - admonition
   - codehilite
