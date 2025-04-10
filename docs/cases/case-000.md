@@ -110,7 +110,7 @@ Pupps sat down beside him, calm and watchful. Like he already knew: something wa
 
 ---
 
-### Nova Knowledge Check  
+## Nova Knowledge Check  
 *Pre-Case Readiness Verification*  
 To proceed with **Case 001**, all interns must confirm foundational knowledge from the overview.
 
