@@ -31,6 +31,7 @@ nav:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/typeit@8.7.1/dist/index.umd.min.js
   - scripts/typing-block.js
+  - js/cloudflare-analytics.js
 
 markdown_extensions:
   - admonition
