@@ -24,8 +24,9 @@ theme:
 
 nav:
   - Home: index.md
+  - Training Modules: training-modules/
   - Cases:
-    - Case 000: cases/case-000.md
+    - Case 000: The Curious Ones: cases/case-000.md
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/typeit@8.7.1/dist/index.umd.min.js
