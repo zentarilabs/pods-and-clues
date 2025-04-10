@@ -24,10 +24,18 @@
 
 <!-- Custom front matter -->
 {% block extrahead %}
+  <!-- Apple-touch-icons -->
+  <link rel="apple-touch-icon" href="assets/homepage/apple-touch-icon-iphone-60x60.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/homepage/apple-touch-icon-ipad-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/homepage/apple-touch-icon-iphone-retina-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/homepage/apple-touch-icon-ipad-retina-152x152.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Pods & Clues">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
   <!-- Cloudflare Web Analytics -->
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
     data-cf-beacon='{"token": "34b3d2da724148d6a419f139bd540f65"}'>
   </script>
-  <!-- End Cloudflare Web Analytics -->
+
 {% endblock %}
