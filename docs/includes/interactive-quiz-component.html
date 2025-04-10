@@ -61,11 +61,15 @@
 </style>
 
 
+
 <script>
+  let totalQuestions = 0;
+  let correctAnswers = 0;
+  const answeredQuestions = new Set();
+
   async function loadQuiz() {
     const container = document.getElementById("quiz-container");
 
-    // Auto-detect module name from URL path
     const pathParts = window.location.pathname.split("/").filter(Boolean);
     const module = pathParts[pathParts.length - 1] || "";
     const quizFile = `/quizzes/${module}-quiz.json`;
@@ -74,12 +78,12 @@
       const response = await fetch(quizFile);
       if (!response.ok) throw new Error("Quiz file not found");
       const data = await response.json();
+      totalQuestions = data.questions.length;
 
       data.questions.forEach((q, index) => {
         const block = document.createElement("div");
         block.classList.add("quiz-question");
 
-        // Shuffle choices if it's a multiple-choice question
         let choices = [];
         if (q.type === "multiple_choice") {
           choices = shuffleArray([...q.choices]);
@@ -96,12 +100,21 @@
               `).join("")
               : `<input type="text" id="${q.id}-text" placeholder="Type your answer" />`}
           </div>
-          <button class="quiz-submit" onclick="checkAnswer('${q.id}', '${q.correct}', '${q.type}')">Submit</button>
+          <button class="quiz-submit" id="${q.id}-submit" onclick="checkAnswer('${q.id}', '${q.correct}', '${q.type}')">Submit</button>
           <p id="${q.id}-feedback" class="quiz-feedback"></p>
         `;
 
         container.appendChild(block);
       });
+
+      const scoreBlock = document.createElement("div");
+      scoreBlock.id = "quiz-score";
+      scoreBlock.style.marginTop = "2rem";
+      scoreBlock.innerHTML = `
+        <p><strong>Score:</strong> <span id="score-count">0</span> / ${totalQuestions}</p>
+        <button onclick="resetQuiz()" class="quiz-submit">Reset Quiz</button>
+      `;
+      container.appendChild(scoreBlock);
     } catch (err) {
       container.innerHTML = "<p>⚠️ Unable to load quiz for this module.</p>";
       console.warn("Quiz load failed:", err);
@@ -109,7 +122,10 @@
   }
 
   function checkAnswer(id, correct, type) {
+    if (answeredQuestions.has(id)) return;  // Prevent resubmission
+
     const feedback = document.getElementById(`${id}-feedback`);
+    const submitBtn = document.getElementById(`${id}-submit`);
     let userAnswer = "";
 
     if (type === "multiple_choice") {
@@ -134,10 +150,24 @@
     feedback.textContent = isCorrect ? "✅ Correct!" : "❌ Not quite.";
     feedback.style.color = isCorrect ? "green" : "red";
 
+    if (isCorrect) correctAnswers += 1;
+    answeredQuestions.add(id);
     localStorage.setItem(`quiz-${id}`, userAnswer);
+
+    // Disable input and submit
+    submitBtn.disabled = true;
+    const inputs = document.querySelectorAll(`#${id}-input input`);
+    inputs.forEach(i => i.disabled = true);
+
+    // Update score
+    document.getElementById("score-count").textContent = correctAnswers;
   }
 
-  // Fisher-Yates Shuffle
+  function resetQuiz() {
+    localStorage.clear();
+    location.reload();
+  }
+
   function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
@@ -148,3 +178,4 @@
 
   loadQuiz();
 </script>
+
