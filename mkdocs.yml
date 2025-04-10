@@ -4,6 +4,7 @@ site_url: https://www.podsandclues.com
 
 theme:
   name: material
+  custom_dir: docs/overrides
   logo: assets/homepage/logo.jpg
   favicon: assets/homepage/favicon.ico
   features:
@@ -21,9 +22,6 @@ theme:
   font:
     text: Inter
     code: JetBrains Mono
-
-extra_javascript:
-  - js/cloudflare-analytics.js
 
 markdown_extensions:
   - admonition
