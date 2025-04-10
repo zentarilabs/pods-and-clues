@@ -7,7 +7,7 @@ At the heart of Zentari Labs, eight interns were selected from thousands of appl
 
 Follow Renzo, Zara, and Dev, three curious interns, as they step into a sleek, intimidating lobby for the first time. Among them is **Inspector Pupps**, Renzo’s emotionally intuitive golden doodle support dog who never leaves his side. Together, they're about to be tested in ways they never expected.
 
-![Pods and Clues Cover Art](assets/homepage/cover-art.png)
+![Pods and Clues Cover Art](assets/homepage/cover-art.jpg)
 
 Through each case, you'll:
 

@@ -4,7 +4,7 @@ site_url: https://www.podsandclues.com
 
 theme:
   name: material
-  logo: assets/homepage/logo.png
+  logo: assets/homepage/logo.jpg
   favicon: assets/homepage/favicon.ico
   features:
     - navigation.tabs
