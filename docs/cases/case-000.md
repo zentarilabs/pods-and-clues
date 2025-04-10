@@ -46,7 +46,7 @@ The elevator chimed. Floor 22.
 
 ---
 
-## Zentari Labs | Training Room | 8:50 AM
+## Zentari Labs | Floor 22 Training Room | 8:50 AM
 
 ---
 
@@ -97,26 +97,33 @@ Pupps sat down beside him, calm and watchful. Like he already knew: something wa
 
 ---
 
-### Nova Systems Check  
-*Pre-Case Readiness Verification — Cohort 4*  
-To proceed with **Case 001**, all interns must confirm foundational knowledge from the training module.
+### Nova Knowledge Check  
+*Pre-Case Readiness Verification*  
+To proceed with **Case 001**, all interns must confirm foundational knowledge from the overview.
 
+---
+**1. In what Project Nova cohort are you in?**  
+A. Cohort 1  
+B. Cohort 3 
+C. Cohort 4
+D. What is a cohort?
+<details><summary>Answer</summary><strong>C — Cohort 4</strong></details>
 ---
 
 **1. What does `kubectl` stand for?**  
 A. Kubernetes Cluster Tool  
 B. Kubernetes Container Loader  
-C. Kubernetes Control  
-D. Kubernetes Core Terminal
-<details><summary>Answer</summary><strong>C — Kubernetes Control</strong></details>
+C. Kubernetes Core Terminal
+D. Kubernetes Control
+<details><summary>Answer</summary><strong>D — Kubernetes Control</strong></details>
 ---
 
 **2. What is the recommended way to pronounce `kubectl`?**  
 A. kube cuddle  
-B. kube control  
-C. kube see tee ell  
+B. kube see tee ell 
+C. kube control 
 D. kubey tool
-<details><summary>Answer</summary><strong>C — kube see tee ell</strong></details>
+<details><summary>Answer</summary><strong>B — kube see tee ell</strong></details>
 
 To continue your journey:
 
