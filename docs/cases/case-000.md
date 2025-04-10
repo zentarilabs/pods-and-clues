@@ -117,8 +117,8 @@ To proceed with **Case 001**, all interns must confirm foundational knowledge fr
 ---
 **1. In what Project Nova cohort are you in?**  
 A. Cohort 1  
-B. Cohort 3 
-C. Cohort 4
+B. Cohort 3  
+C. Cohort 4  
 D. What is a cohort?
 <details><summary>Answer</summary><strong>C — Cohort 4</strong></details>
 ---
@@ -126,16 +126,16 @@ D. What is a cohort?
 **2. What does `kubectl` stand for?**  
 A. Kubernetes Cluster Tool  
 B. Kubernetes Container Loader  
-C. Kubernetes Core Terminal
-D. Kubernetes Control
+C. Kubernetes Core Terminal  
+D. Kubernetes Control  
 <details><summary>Answer</summary><strong>D — Kubernetes Control</strong></details>
 ---
 
 **3. What is the recommended way to pronounce `kubectl`?**  
 A. kube cuddle  
-B. kube see tee ell 
-C. kube control 
-D. kubey tool
+B. kube see tee ell  
+C. kube control  
+D. kubey tool  
 <details><summary>Answer</summary><strong>B — kube see tee ell</strong></details>
 
 To continue your journey:
