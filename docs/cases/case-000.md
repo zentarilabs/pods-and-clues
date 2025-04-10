@@ -140,4 +140,4 @@ D. kubey tool
 
 To continue your journey:
 
-👉 [**Enter Training Module 001 – What is Kubernetes and Namespaces**](../training-modules/tm-001.md)
+👉 [**Enter Training Module 001 – What is Kubernetes & Namespaces**](../training-modules/tm-001.md)
