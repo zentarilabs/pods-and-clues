@@ -25,41 +25,9 @@
 <!-- Custom front matter -->
 {% block extrahead %}
 
-  <!-- Extra style sheets (can't be set in mkdocs.yml due to content hash) -->
-  <link
-    rel="stylesheet"
-    href="{{ 'assets/stylesheets/custom.css' | url }}"
-  />
-
   <!-- Cloudflare Web Analytics -->
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
     data-cf-beacon='{"token": "34b3d2da724148d6a419f139bd540f65"}'>
   </script>
   <!-- End Cloudflare Web Analytics -->
-{% endblock %}
-
-<!-- Announcement bar -->
-{% block announce %}
-  For updates follow <strong>@squidfunk</strong> on
-  <a rel="me" href="https://fosstodon.org/@squidfunk">
-    <span class="twemoji mastodon">
-      {% include ".icons/fontawesome/brands/mastodon.svg" %}
-    </span>
-    <strong>Fosstodon</strong>
-  </a>
-  and
-  <a href="https://x.com/squidfunk">
-    <span class="twemoji twitter">
-      {% include ".icons/fontawesome/brands/twitter.svg" %}
-    </span>
-    <strong>Twitter</strong>
-  </a>
-{% endblock %}
-
-<!-- Theme-related JavaScript -->
-{% block scripts %}
-  {{ super() }}
-
-  <!-- Extra JavaScript (can't be set in mkdocs.yml due to content hash) -->
-  <script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
 {% endblock %}
