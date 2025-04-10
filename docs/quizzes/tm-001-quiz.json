@@ -1,0 +1,60 @@
+{
+  "module": "TM001",
+  "title": "What is Kubernetes & Namespaces",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "text": "Why do modern teams use Kubernetes?",
+      "choices": [
+        "To host websites without needing the internet",
+        "To make YAML files more colorful",
+        "To build mobile apps",
+        "To launch and manage containers across many machines automatically"
+      ],
+      "correct": "To launch and manage containers across many machines automatically"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "text": "What happens if you don\u2019t specify a namespace in your `kubectl` command?",
+      "choices": [
+        "Kubernetes creates a new namespace automatically",
+        "The command will fail",
+        "Kubernetes uses the `default` namespace",
+        "It prompts you to choose one"
+      ],
+      "correct": "Kubernetes uses the `default` namespace"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "text": "What\u2019s a good reason to use namespaces in a Kubernetes cluster?",
+      "choices": [
+        "To organize resources into separate environments",
+        "To install apps from the internet",
+        "To make pods restart faster",
+        "To create more CPU for your containers"
+      ],
+      "correct": "To organize resources into separate environments"
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "text": "Which of these commands will show all pods across all namespaces?",
+      "choices": [
+        "kubectl get all",
+        "kubectl pods",
+        "kubectl get namespaces",
+        "kubectl get pods -A"
+      ],
+      "correct": "kubectl get pods -A"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "text": "What is the namespace used by Zentari Labs for Renzo?",
+      "correct": "nova-4-renzo"
+    }
+  ]
+}
