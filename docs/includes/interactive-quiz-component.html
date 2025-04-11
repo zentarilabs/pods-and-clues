@@ -24,7 +24,7 @@
     line-height: 1.4;
   }
 
-  .quiz-question input[type="text"] {
+  .quiz-question input[type="question"] {
   width: 100%;
   max-width: 600px;
   font-family: monospace;
@@ -72,7 +72,7 @@
 
     const pathParts = window.location.pathname.split("/").filter(Boolean);
     const module = pathParts[pathParts.length - 1] || "";
-    const quizFile = `/quizzes/${module}-quiz.json`;
+    const quizFile = `/quizzes/${module}.json`;
 
     try {
       const response = await fetch(quizFile);
@@ -90,7 +90,7 @@
         }
 
         block.innerHTML = `
-          <p><strong>Q${index + 1}:</strong> ${q.text}</p>
+          <p><strong>Q${index + 1}:</strong> ${q.question}</p>
           <div id="${q.id}-input">
             ${q.type === "multiple_choice"
               ? choices.map(choice => `
@@ -98,7 +98,7 @@
                   <input type="radio" name="${q.id}" value="${choice}"> ${choice}
                 </label>
               `).join("")
-              : `<input type="text" id="${q.id}-text" placeholder="Type your answer" />`}
+              : `<input type="text" id="${q.id}-question" placeholder="Type your answer" />`}
           </div>
           <button class="quiz-submit" id="${q.id}-submit" onclick="checkAnswer('${q.id}', '${q.correct}', '${q.type}')">Submit</button>
           <p id="${q.id}-feedback" class="quiz-feedback"></p>
@@ -140,7 +140,7 @@
       }
       userAnswer = selected.value;
     } else if (type === "short_answer") {
-      const input = document.getElementById(`${id}-text`);
+      const input = document.getElementById(`${id}-question`);
       userAnswer = input.value.trim();
       if (!userAnswer) {
         feedback.textContent = "⚠️ Please type an answer.";

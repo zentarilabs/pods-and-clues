@@ -1,0 +1,65 @@
+{
+  "module": "CASE-000",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "In what Project Nova cohort are you in?",
+      "choices": [
+        "Cohort 1",
+        "Cohort 3",
+        "Cohort 4",
+        "What is a cohort?"
+      ],
+      "correct": "Cohort 4"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "What does `kubectl` stand for?",
+      "choices": [
+        "Kubernetes Cluster Tool",
+        "Kubernetes Container Loader",
+        "Kubernetes Core Terminal",
+        "Kubernetes Control"
+      ],
+      "correct": "Kubernetes Control"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Why were only eight interns selected for Project Nova?",
+      "choices": [
+        "They all had perfect grades",
+        "They came from the same university",
+        "They were curious and showed potential",
+        "They knew how to use Kubernetes already"
+      ],
+      "correct": "They were curious and showed potential"
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "What is the recommended way to pronounce `kubectl`?",
+      "choices": [
+        "kube cuddle",
+        "kube see tee ell",
+        "kube control",
+        "kubey tool"
+      ],
+      "correct": "kube see tee ell"
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "What is the purpose of the training modules at Zentari Labs?",
+      "choices": [
+        "To test how fast you can code",
+        "To prepare you for the real cases",
+        "To replace hands-on work",
+        "To compete with other interns"
+      ],
+      "correct": "To prepare you for the real cases"
+    }
+  ]
+}

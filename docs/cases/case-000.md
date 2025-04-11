@@ -112,7 +112,7 @@ Pupps sat down beside him, calm and watchful. Like he already knew: something wa
 
 ## Nova Knowledge Check  
 *Pre-Case Readiness Verification*  
-To proceed with **Case 001**, all interns must confirm foundational knowledge from the overview.
+To proceed with **Training Module 001**, all interns must confirm foundational knowledge from the overview.
 
 ---
 
@@ -122,4 +122,4 @@ To proceed with **Case 001**, all interns must confirm foundational knowledge fr
 
 To continue your journey:
 
-👉 [**Enter Training Module 001 – What is Kubernetes & Namespaces**](../training-modules/tm-001.md)
+👉 [**Enter Training Module 001 – The Evolution of the App**](../training-modules/tm-001.md)
