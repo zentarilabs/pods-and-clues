@@ -1,39 +1,46 @@
-# Welcome to Pods and Clues
-*Only the curious get chosen.*
+# 🧩 What Is *Pods and Clues*?
 
-You're about to enter a different kind of cloud internship, one where YAML files hold secrets, and every `kubectl` command might uncover more than just pods.
+*Pods and Clues* is not just a Kubernetes learning tool, it’s a story driven, mystery filled journey through the cloud.
 
-At the heart of Zentari Labs, eight interns were selected from thousands of applicants to join **Project Nova**, a high-stakes program designed to shape the future of cloud infrastructure. But not everything is as it seems...
+* Part tech internship
+* Part interactive comic
+* Part terminal-based puzzle
+* And totally unlike anything else
 
-Follow Renzo, Zara, and Dev, three curious interns, as they step into a sleek, intimidating lobby for the first time. Among them is **Inspector Pupps**, Renzo’s emotionally intuitive golden doodle support dog who never leaves his side. Together, they're about to be tested in ways they never expected.
+## 🚀 Learn Kubernetes by Solving a Mystery
+
+You’ll follow three interns selected for a top secret cloud training program at Zentari Labs, a futuristic tech startup hiding something beneath the surface.
+
+Through immersive cases, you’ll:
+
+🧠 Learn real Kubernetes certification topics (CKAD, CKA, CKS)  
+🕹️ Apply commands and YAML live as you progress  
+📚 Connect emotionally to characters with relatable growth arcs  
+🐾 Follow the clues with help from Inspector Pupps, the debugging goldendoodle with better instincts than most humans
+
+## 🎭 The Setup
+
+> Only the curious get chosen
+
+[Renzo](characters/renzo.md). [Zara](characters/zara.md). [Dev](characters/dev.md). And [Inspector Pupps](characters/pupps.md), the sharp-eyed goldendoodle who never leaves Renzo’s side.
+Three sharp-minded seniors (and one very good dog), chosen for a program no one talks about… but everyone wants in on.
+
+They step into the elevator. Floor 22 glows. The doors open to polished silence, humming terminals, and a future that feels just a little too perfect.
+
+Eight interns made it through. But one of them isn’t who they claim to be.
+
+And in a world built on YAML, where namespaces define what’s visible and what isn’t…  
+The real danger isn’t what you see.  
+It’s what you miss.
 
 ![Pods and Clues Cover Art](assets/homepage/cover-art.jpg)
 
-Through each case, you'll:
-
-* Learn real Kubernetes skills
-* Solve immersive mysteries
-* Uncover the hidden truth behind Project Nova
-
 ---
 
-## 📦 What Is *Pods and Clues*?
+## 🕵️ Ready to Begin?
 
-*Pods & Clues* is an interactive learning story that blends:
-
-* 📘 Kubernetes Certification (CKAD) content
-* 🧩 Visual storytelling and comics
-* 🧠 Technical mysteries and terminal-based training
-* 🐶 And yes — a loyal dog with a nose for debugging
-
-Whether you're switching careers, learning Kubernetes for the first time, or just love a good story, you're in the right place.
-
----
-
-## 🕵️ Start the Story
-
-To begin your journey:
+> This is your first step into Zentari Labs.  
+> Check in. Grab your ID badge. Watch the elevator light up Floor 22.  
+> Because in Kubernetes and in life, curiosity always comes first.
 
 👉 [**Enter Case 000 – The Curious Ones**](cases/case-000.md)
-
-*Because in Kubernetes and in life, curiosity always comes first.*
