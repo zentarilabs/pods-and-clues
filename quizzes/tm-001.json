@@ -1,0 +1,65 @@
+{
+  "module": "TM-000",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What’s one big downside of using a physical server to run an app?",
+      "choices": [
+        "It’s hard to plug in",
+        "It only works on Wi-Fi",
+        "It’s expensive and doesn’t adjust when traffic increases",
+        "You can’t install software on it"
+      ],
+      "correct": "It’s expensive and doesn’t adjust when traffic increases"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "How are virtual machines (VMs) better than physical servers?",
+      "choices": [
+        "They’re free to use",
+        "You can run more than one app on the same machine",
+        "They turn into containers automatically",
+        "They never crash"
+      ],
+      "correct": "You can run more than one app on the same machine"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "What makes containers so useful for modern apps?",
+      "choices": [
+        "They come with free internet",
+        "They fix bugs on their own",
+        "They start quickly and can grow or shrink depending on traffic",
+        "They use more electricity"
+      ],
+      "correct": "They start quickly and can grow or shrink depending on traffic"
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Why have we moved from servers to VMs to containers?",
+      "choices": [
+        "Because newer tools look cooler",
+        "Because apps are smaller now",
+        "Because we need systems that can grow, recover, and keep running without manual work",
+        "Because VMs stopped working"
+      ],
+      "correct": "Because we need systems that can grow, recover, and keep running without manual work"
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "In the transportation analogy from TM-001, what are containers most like?",
+      "choices": [
+        "Owning a sports car",
+        "Riding a train that adds cars when more people show up",
+        "Driving a rental truck",
+        "Biking uphill"
+      ],
+      "correct": "Riding a train that adds cars when more people show up"
+    }
+  ]
+}
