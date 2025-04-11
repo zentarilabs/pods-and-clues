@@ -2,10 +2,10 @@
 
 *Pods and Clues* is not just a Kubernetes learning tool, it’s a story driven, mystery filled journey through the cloud.
 
-* Part tech internship
-* Part interactive comic
-* Part terminal-based puzzle
-* And totally unlike anything else
+🔬 Part tech internship  
+🖼️ Part interactive comic  
+💻 Part terminal-based puzzle  
+✨ And totally unlike anything else
 
 ## 🚀 Learn Kubernetes by Solving a Mystery
 
@@ -22,10 +22,9 @@ Through immersive cases, you’ll:
 
 > Only the curious get chosen
 
-[Renzo](characters/renzo.md). [Zara](characters/zara.md). [Dev](characters/dev.md). And [Inspector Pupps](characters/pupps.md), the sharp-eyed goldendoodle who never leaves Renzo’s side.
-Three sharp-minded seniors (and one very good dog), chosen for a program no one talks about… but everyone wants in on.
+[Renzo](characters/renzo.md), [Zara](characters/zara.md), [Dev](characters/dev.md), and [Inspector Pupps](characters/pupps.md), the sharp-eyed goldendoodle who never leaves Renzo’s side. Three college seniors (and one very good dog), chosen for a program no one talks about… but everyone wants in on.
 
-They step into the elevator. Floor 22 glows. The doors open to polished silence, humming terminals, and a future that feels just a little too perfect.
+The doors slide open to polished silence, soft blue floor lights guiding the way, and an atmosphere that feels curated, like the future is expecting you.
 
 Eight interns made it through. But one of them isn’t who they claim to be.
 
