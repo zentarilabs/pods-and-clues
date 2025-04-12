@@ -2,7 +2,7 @@
 
 ---
 
-## Zentari Labs | Lobby | 8:40 AM
+## Zentari Labs | Lobby | 8:35 AM
 
 ---
 
@@ -22,7 +22,7 @@ He thought. "Say something. Anything. You’re both interns. She probably feels 
 
 Before the silence settled too heavily, the lobby doors opened again.
 
-Dev stepped in, hoodie layered over a collared shirt, slacks slightly wrinkled, and a bag packed like he was staying the night. His eyes lit up at the sight of the others.
+Dev stepped in, hoodie layered over a t-shirt, slacks slightly wrinkled, and a bag packed like he was staying the night. His eyes lit up at the sight of the others.
 
 "Yo! Project Nova? Right?" Dev said, offering a fist bump to Renzo. Renzo returned it, a bit stiffly.
 
@@ -70,13 +70,15 @@ The room was a spacious training floor with individual desks, each with a Zentar
 
 Zara didn’t turn. "Eight total. We’re just early."
 
-Renzo slid into the seat farthest from the door. Pupps curled up beside his chair without a sound. Zara took the spot two seats down. Dev sat between them. Four other interns stepped into the room. Some walked directly to their laptops. Others hovered, scanning the space like they weren’t sure where to sit. No one said much. Then came the last: a tall girl with silver glasses with a low side braid. She gave a polite nod to no one in particular and made her way to a desk at the far end.
+Renzo slid into the seat farthest from the door. Pupps curled up beside his chair without a sound. Zara took the spot two seats down. Dev sat between them. 
+
+Four other interns stepped into the room. Some walked directly to their laptops. Others hovered, scanning the space like they weren’t sure where to sit. No one said much. Then came the last: a tall girl with silver glasses with a low side braid. She gave a polite nod to no one in particular and made her way to a desk at the far end.
 
 ![8th intern enters the training room](../assets/case-000/scene-5.png)
 
 As the final intern stepped into the room, the lights dimmed. A soft chime echoed overhead. Then, with quiet confidence, a sharply dressed man entered behind them. He moved to the center of the room, raised a hand, and the space responded. A glowing “Z” emblem shimmered into view, slowly rotating before unfolding into a full holographic display.
 
-"Welcome to Zentari Labs" he said, voice calm and reassuring. "You weren’t just chosen for your skills, you were chosen because you’re curious. And in this place, only the curious move forward. You are Cohort 4 of Project Nova. Thousands applied. Only eight were selected"
+"Welcome to Zentari Labs" he said, voice calm and reassuring. "My name is Hiro and I will be one of the leading mentors in this cohort. You weren’t just chosen for your skills, you were chosen because you’re curious. And in this place, only the curious move forward. You are Cohort 4 of Project Nova. Thousands applied. Only eight were selected"
 
 Dev whispered, "Only the curious get chosen, interesting."
 
@@ -84,7 +86,7 @@ Dev whispered, "Only the curious get chosen, interesting."
 
 Zara leaned back slightly, arms crossed.
 
-"Your first task begins with Kubernetes. You’ll be introduced to the CLI short for command-line interface and kubectl, short for Kubernetes Control. There has been debate on how to pronounce it. But if you want to stand out and be right it’s kyoob-see-tee-ell."
+"Your first tasks begins with how apps have evolved and the need for Kubernetes. You’ll be introduced to the CLI short for command-line interface and kubectl, short for Kubernetes Control. There has been debate on how to pronounce it. But if you want to stand out and be right it’s kyoob-see-tee-ell."
 
 Renzo nodded slightly to himself.
 
