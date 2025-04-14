@@ -10,19 +10,25 @@
       <h3>We’d love your feedback!</h3>
       <p>Spotted a bug? Have a suggestion or even an idea for a future case? Let us know, we’re listening.</p>
 
-      <form action="https://formsubmit.co/rlinares416@gmail.com" method="POST">
+      <form id="feedbackForm">
         <input type="hidden" name="_subject" value="New Feedback from Pods & Clues">
         <input type="hidden" name="_captcha" value="false">
         <input type="hidden" name="page_url" id="page-url">
-
+      
         <label for="message"><strong>Your message:</strong></label><br>
         <textarea name="message" rows="6" required placeholder="Tell us what you noticed or your idea..."></textarea><br><br>
-
+      
         <label for="email"><strong>Your email (optional):</strong></label><br>
         <input type="email" name="email" placeholder="you@example.com"><br><br>
-
-        <button type="submit">Submit Feedback</button>
+      
+        <button type="submit" id="feedbackSubmitBtn">Submit Feedback</button>
       </form>
+      
+      <!-- Placeholder for success -->
+      <div id="feedbackSuccess" style="display: none;">
+        <h3>✅ Thank you!</h3>
+        <p>Your feedback was sent successfully.</p>
+      </div>
     </div>
   </div>
 </div>

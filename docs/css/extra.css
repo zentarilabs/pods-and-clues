@@ -179,4 +179,34 @@ body {
   color: var(--md-typeset-color);
 }
 
+@keyframes fadeSlideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#feedbackSuccess {
+  display: none;
+  opacity: 0;
+  animation: fadeSlideIn 0.4s ease-out forwards;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+#feedbackSuccess h3 {
+  color: #22c55e; /* soft green */
+  margin-bottom: 0.5rem;
+}
+
+#feedbackSuccess p {
+  font-size: 0.95rem;
+  color: var(--md-typeset-color);
+}
+
+
 
