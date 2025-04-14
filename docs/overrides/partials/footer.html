@@ -1,0 +1,34 @@
+<div class="feedback-float" onclick="openFeedbackModal()">
+  💬 Give Feedback
+</div>
+
+<!-- Feedback Modal -->
+<div id="feedbackModal" class="feedback-modal">
+  <div class="feedback-modal-content">
+    <span class="feedback-close" onclick="closeFeedbackModal()">&times;</span>
+      <!-- Feedback Modal -->
+      <div id="feedbackModal" class="feedback-modal">
+        <div class="feedback-modal-content">
+          <span class="feedback-close" onclick="closeFeedbackModal()">&times;</span>
+          <div class="feedback-form-wrapper">
+            <h3>We’d love your feedback!</h3>
+            <p>Spotted a bug? Have a suggestion or even an idea for a future case? Let us know, we’re listening.</p>
+
+            <form action="https://formsubmit.co/rlinares416@gmail.com" method="POST">
+              <input type="hidden" name="_subject" value="New Feedback from Pods & Clues">
+              <input type="hidden" name="_captcha" value="false">
+              <input type="hidden" name="page_url" id="page-url">
+
+              <label for="message"><strong>Your message:</strong></label><br>
+              <textarea name="message" rows="6" required placeholder="Tell us what you noticed or your idea..."></textarea><br><br>
+
+              <label for="email"><strong>Your email (optional):</strong></label><br>
+              <input type="email" name="email" placeholder="you@example.com"><br><br>
+
+              <button type="submit">Submit Feedback</button>
+            </form>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>

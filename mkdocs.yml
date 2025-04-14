@@ -23,6 +23,12 @@ theme:
     text: Inter
     code: JetBrains Mono
 
+extra_css:
+  - css/extra.css
+
+extra_javascript:
+  - js/feedback-scroll.js
+
 markdown_extensions:
   - admonition
   - codehilite

@@ -1,0 +1,181 @@
+/* Extra CSS for the feedback button and floating button */
+body {
+  padding-bottom: 30px; /* adjust as needed */
+}
+
+.feedback-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #ff4081;
+  color: white;
+  padding: 12px 18px;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  z-index: 1000;
+  font-family: sans-serif;
+}
+
+.feedback-button:hover {
+  background-color: #e73570;
+}
+
+.feedback-float a {
+  color: white;
+  text-decoration: none;
+}
+
+.feedback-float a:hover {
+  background-color: #1e40af;
+}
+
+@media (max-width: 768px) {
+  .feedback-float {
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    padding: 10px;
+  }
+}
+
+.feedback-float.hide {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(30px);
+  transition: all 0.3s ease;
+}
+
+.feedback-float {
+  transition: all 0.3s ease;
+}
+
+/* Floating Button */
+.feedback-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #2563eb;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 999px;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+
+/* Modal */
+.feedback-modal {
+  position: fixed;
+  z-index: 99999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.feedback-modal-content {
+  background-color: white;
+  margin: 10% auto;
+  padding: 0;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 600px;
+  overflow: hidden;
+}
+
+.feedback-close {
+  color: #aaa;
+  float: right;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.feedback-close:hover {
+  color: #333;
+}
+
+.feedback-modal-content {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+  margin: 10% auto;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 600px;
+  box-shadow: var(--md-shadow-z2);
+  font-family: var(--md-text-font, inherit);
+}
+
+.feedback-form-wrapper h3 {
+  margin-top: 0;
+  color: var(--md-typeset-color);
+  font-size: 1.25rem;
+}
+
+.feedback-form-wrapper p {
+  color: var(--md-typeset-color);
+  font-size: 0.95rem;
+  margin-bottom: 1.25rem;
+}
+
+.feedback-form-wrapper label {
+  font-weight: 500;
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.9rem;
+  color: var(--md-typeset-color);
+}
+
+.feedback-form-wrapper textarea,
+.feedback-form-wrapper input[type="email"] {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+}
+
+.feedback-form-wrapper textarea:focus,
+.feedback-form-wrapper input[type="email"]:focus {
+  outline: none;
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.feedback-form-wrapper button {
+  background-color: var(--md-accent-fg-color);
+  color: white;
+  padding: 0.75rem 1.25rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.feedback-form-wrapper button:hover {
+  background-color: #1e40af;
+}
+
+.feedback-close {
+  float: right;
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: var(--md-typeset-color);
+}
+
+
