@@ -66,6 +66,34 @@
   let totalQuestions = 0;
   let correctAnswers = 0;
   const answeredQuestions = new Set();
+  const correctResponses = [
+  "✅ Zentari System: Alignment confirmed.",
+  "✅ Nice catch, Intern. That’s the one.",
+  "✅ Protocol matched. You’re sharp.",
+  "✅ Correct input. You’ve got instincts.",
+  "✅ Success. You’re thinking like a Nova engineer.",
+  "✅ Clean result. Pupps would be proud.",
+  "✅ Logical match detected. Well played.",
+  "✅ Green light. You’re synced with the system.",
+  "✅ Diagnostic complete. Answer verified.",
+  "✅ Nailed it. Looks like you’re ready for the next tier.",
+  "✅ Right signal received. You’re on track.",
+  "✅ Authorized knowledge confirmed. Good job."
+  ];
+  const incorrectResponses = [
+  "❌ Zentari System: Input mismatch.",
+  "❌ Not quite. Try recalibrating your approach.",
+  "❌ Pupps tilted his head. Try again.",
+  "❌ Red flag. That’s not aligned with the truth.",
+  "❌ Almost there. Something’s off in the logic.",
+  "❌ Protocol error. Review your hypothesis.",
+  "❌ Hmm. That doesn't check out.",
+  "❌ Nova engineers dig deeper. Try again.",
+  "❌ System alert: Response inconsistent.",
+  "❌ Think like a pod — you're close.",
+  "❌ No match. Re-run your mental containers.",
+  "❌ The logs don’t agree. Want to try again?"
+  ];
 
   async function loadQuiz() {
     const container = document.getElementById("quiz-container");
@@ -150,7 +178,11 @@
     }
 
     const isCorrect = userAnswer.toLowerCase() === correct.toLowerCase();
-    feedback.textContent = isCorrect ? "✅ Correct!" : "❌ Not quite.";
+    const feedbackMessage = isCorrect
+      ? correctResponses[Math.floor(Math.random() * correctResponses.length)]
+      : incorrectResponses[Math.floor(Math.random() * incorrectResponses.length)];
+
+    feedback.textContent = feedbackMessage;
     feedback.style.color = isCorrect ? "green" : "red";
 
     if (isCorrect) correctAnswers += 1;
