@@ -70,6 +70,7 @@ body {
 
 /* Modal */
 .feedback-modal {
+  display: none; /* Hidden by default */
   position: fixed;
   z-index: 99999;
   left: 0;
