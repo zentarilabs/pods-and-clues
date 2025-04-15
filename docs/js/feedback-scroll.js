@@ -96,4 +96,3 @@ function closeFeedbackModal() {
   document.getElementById("feedbackForm").style.display = "block";
   document.getElementById("feedbackSuccess").style.display = "none";
 }
-
