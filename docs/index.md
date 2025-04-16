@@ -1,6 +1,6 @@
 # 🧩 What Is *Pods and Clues*?
 
-*Pods and Clues* is not just a Kubernetes learning tool, it’s a story driven, mystery filled journey through the cloud.
+*Pods and Clues* is a Kubernetes Mystery Series. It’s a story driven, mystery filled journey through the cloud.
 
 🔬 Part tech internship  
 🖼️ Part interactive comic  
