@@ -1,4 +1,4 @@
-# Case 000: The Curious Ones
+# CASE 000: The Curious Ones
 
 ---
 
@@ -44,7 +44,7 @@ Dev leaned forward, eyes scanning the glowing panel. "Crazy, right? Out of every
 
 The elevator chimed. Floor 22.
 
-## Floor 22 Training Room, First Intern Meetup
+## Cohort Workspace, Enter the Eight
 
 As the doors slid open, a glowing hallway stretched out, white walls, blue floor lights pulsing gently. A single line of text glowed near the floor:
 
