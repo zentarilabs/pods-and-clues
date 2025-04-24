@@ -32,7 +32,7 @@ And in a world built on YAML, where namespaces define what’s visible and what 
 The real danger isn’t what you see.  
 It’s what you miss.
 
-![Pods and Clues Cover Art](assets/homepage/cover-art.jpg)
+![Pods and Clues Cover Art](assets/homepage/pods-and-clues-case-000-cover.jpg)
 
 ---
 
