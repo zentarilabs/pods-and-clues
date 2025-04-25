@@ -4,43 +4,62 @@
 
 ## Zentari Labs Lobby, Arrival
 
-Renzo stepped into Zentari Labs for the first time, his eyes wide as he scanned the chrome and glass lobby bathed in soft blue light. Next to him, Inspector Pupps sat alert but calm, his golden curls catching the morning light from the floor to ceiling windows.
+Renzo stepped into Zentari Labs for the first time, his eyes wide as he took in the chrome and glass lobby, sunlight pouring through floor to ceiling windows in soft, futuristic tones. Beside him, Inspector Pupps sat alert but calm, golden curls glowing in the morning light like they belonged here.
 
-Every surface whispered, "You don’t belong here unless you’re brilliant."
+Renzo wasn’t so sure he did.
 
-![Renzo in awe of the Zentari Labs Lobby](../assets/case-000/scene-1.png)
+The space buzzed with movement and quiet confidence, like everyone else had already passed some unspoken test.
 
-Renzo adjusted the strap on his bookbag, nerves prickling beneath his skin. He glanced down at Pupps, who gave a soft, grounding huff.
+"What if I’m not ready? What if they realize I don’t belong?"
 
-The sharp tap of sneakers on polished tile drew his attention behind him.
+![Renzo in awe of the Zentari Labs Lobby](../assets/case-000/renzo-lobby.jpg)
 
-Zara stepped into the lobby. Her curls bounced slightly with each stride, blonde highlights catching the light. She was effortlessly styled with a blazer, jeans, sneakers, gold accessories, and carried a tote over her shoulder. She gave Renzo a subtle nod. Not unfriendly, just… focused.
+Renzo adjusted the strap on his bookbag, nerves prickling just beneath his skin.
+He glanced down at Pupps, who gave a soft, grounding huff, a reminder that he wasn’t alone.
 
-He thought. "Say something. Anything. You’re both interns. She probably feels weird too."
+A sharp tap of sneakers on polished tile snapped his attention to the entrance behind him.
+
+Zara had arrived.
+
+Her curls bounced with each stride, blonde highlights catching the light. She moved with quiet precision. She had a rust blazer, jeans, white sneakers, gold earrings, and a tote slung confidently over one shoulder.
+
+![Zara entered the lobby confidently](../assets/case-000/zara-lobby.jpg)
+
+She met Renzo’s eyes and offered a small, composed smile.
+Not overly warm. But real. Like she saw him.
+
+Renzo blinked, caught off guard.
+She looks like she belongs here.
+
+"Say something", he thought. "Anything. You’re both interns. She probably feels weird too."
+But the words stuck somewhere between his nerves and his throat.
 
 Before the silence settled too heavily, the lobby doors opened again.
 
-Dev stepped in, hoodie layered over a t-shirt, slacks slightly wrinkled, and a bag packed like he was staying the night. His eyes lit up at the sight of the others.
+Dev stepped in, hoodie layered over a t-shirt, jeans, and a bag packed like he was staying the night. His eyes lit up at the sight of the others.
 
-"Yo! Project Nova? Right?" Dev said, offering a fist bump to Renzo. Renzo returned it, a bit stiffly.
+![Dev entering the lobby for the first time excited to see other interns](../assets/case-000/dev-lobby.jpg)
 
-![Dev fistbumps Renzo for the first time](../assets/case-000/scene-2.png)
+“Yo! Project Nova, right?” Dev grinned, his energy already filling the space as he offered a fist bump.
 
-Zara gave him a polite, distant nod, then glanced at the shared email. "Floor 22" she said. "That’s where we’re headed."
+Renzo met it a beat late, but it landed.
 
-After checking in, they followed a glowing line on the floor marked “Elevators.” The hallway curved ahead, all glass and polished steel, reflecting more light than felt natural. Renzo kept pace, his fingers brushing the strap of his backpack. The silence wasn’t threatening, just heavy with expectation. Like the building was holding its breath. Or maybe he was.
+Dev’s backpack shifted as he moved, like it had been tossed on in a rush. He had the kind of presence that made the lobby feel just a little less intimidating.
+
+Zara offered a small, friendly smile, then glanced at the shared email on her phone.
+“Floor 22,” she said. “That’s where we’re headed.”
+
+After checking in, they headed towards the main elevators. Renzo kept pace beside her, fingers brushing the strap of his backpack. The silence wasn’t unfriendly, just expectant. Like the building was holding its breath. Or maybe… he was.
 
 ## Elevator to Floor 22, First Impressions
 
-Zara stepped forward and tapped the number 22. The touchscreen lit up, a glowing blue ring swirling around it as the trio entered and the doors slid shut.
+Zara stepped in first and tapped the number 22. The touchscreen lit up, a glowing blue ring swirling around it as the trio entered and the doors slid shut.
 
 Renzo stood silently, his bag still strapped tightly to his shoulders. Dev swayed slightly, bobbing to a beat in his head. Zara was already scrolling on her phone.
 
 He could feel the difference between them. Dev seemed like the type who made friends in five minutes. Zara looked like she didn’t need anyone at all. Pupps sat between them, calm as ever. His tail brushed Renzo’s ankle in a quiet reassurance.
 
-Dev leaned forward, eyes scanning the glowing panel. "Crazy, right? Out of everyone… why us?" Renzo nodded, but Zara didn’t look up.
-
-![Dev excitedly talking with Renzo about the internship in the elevator](../assets/case-000/scene-3.png)
+Dev leaned forward, eyes scanning the glowing panel. "Crazy, right? Out of everyone… why us?" Renzo nodded, but Zara didn’t even look up.
 
 The elevator chimed. Floor 22.
 
@@ -62,11 +81,13 @@ Zara didn’t turn. "Eight total. We’re just early."
 
 Renzo slid into the seat farthest from the door. Pupps curled up beside his chair without a sound. Zara took the spot two seats down. Dev sat between them. 
 
-Four other interns stepped into the room. Some walked directly to their laptops. Others hovered, scanning the space like they weren’t sure where to sit. No one said much. Then came the last: a tall girl with silver glasses with a low side braid. She gave a polite nod to no one in particular and made her way to a desk at the far end.
+Four other interns stepped into the room. Some walked directly to their laptops. Others hovered, scanning the space like they weren’t sure where to sit. No one said much. Then came the last: a tall girl with silver glasses with a low side braid. She gave a polite nod to no one in particular and made her way to a desk at the other far end.
 
 ![8th intern enters the training room](../assets/case-000/scene-5.png)
 
 As the final intern stepped into the room, the lights dimmed. A soft chime echoed overhead. Then, with quiet confidence, a sharply dressed man entered behind them. He moved to the center of the room, raised a hand, and the space responded. A glowing “Z” emblem shimmered into view, slowly rotating before unfolding into a full holographic display.
+
+![Hiro enters the intern workspace](../assets/case-000/hiro-orientation.jpg)
 
 "Welcome to Zentari Labs" he said, voice calm and reassuring. "My name is Hiro and I will be one of the leading mentors in this cohort. You weren’t just chosen for your skills, you were chosen because you’re curious. And in this place, only the curious move forward. You are Cohort 4 of Project Nova. Thousands applied. Only eight were selected"
 
@@ -76,7 +97,7 @@ Dev whispered, "Only the curious get chosen, interesting."
 
 Zara leaned back slightly, arms crossed.
 
-"Your first tasks begins with how apps have evolved and the need for Kubernetes. You’ll be introduced to the CLI short for command-line interface and kubectl, short for Kubernetes Control. There has been debate on how to pronounce it. But if you want to stand out and be right it’s kyoob-see-tee-ell."
+"Your first tasks begins with how apps have evolved and the need for Kubernetes. You’ll be introduced to the CLI short for command line interface and kubectl, short for Kubernetes Control. There has been debate on how to pronounce it. But if you want to stand out and be right it’s kyoob-see-tee-ell."
 
 Renzo nodded slightly to himself.
 
@@ -98,7 +119,7 @@ He nervously pressed ENTER.
 
 ![Renzo entering his first training module on his laptop](../assets/case-000/scene-6.png)
 
-Pupps sat down beside him, calm and watchful. Like he already knew: something was already beginning.
+Pupps sat close, his quiet presence grounding. Between him and the two he'd just met… maybe, just maybe, everything would turn out alright.
 
 ---
 
