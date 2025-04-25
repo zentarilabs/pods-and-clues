@@ -117,7 +117,7 @@ Renzo exhaled. He tapped the trackpad. The screen blinked to life.
 
 He nervously pressed ENTER.
 
-![Renzo entering his first training module on his laptop](../assets/case-000/scene-6.png)
+![Renzo entering his first training module on his laptop](../assets/case-000/renzo-on-laptop.jpg)
 
 Pupps sat close, his quiet presence grounding. Between him and the two he'd just met… maybe, just maybe, everything would turn out alright.
 
