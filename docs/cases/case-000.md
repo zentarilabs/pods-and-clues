@@ -44,7 +44,7 @@ Dev stepped in, hoodie layered over a t-shirt, jeans, and a bag packed like he w
 
 Renzo met it a beat late, but it landed.
 
-Dev’s backpack shifted as he moved, like it had been tossed on in a rush. He had the kind of presence that made the lobby feel just a little less intimidating.
+Dev had the kind of presence that made the lobby feel just a little less intimidating.
 
 Zara offered a small, friendly smile, then glanced at the shared email on her phone.
 “Floor 22,” she said. “That’s where we’re headed.”
