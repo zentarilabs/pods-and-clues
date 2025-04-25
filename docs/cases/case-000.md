@@ -93,7 +93,7 @@ As the final intern stepped into the room, the lights dimmed. A soft chime echoe
 
 Dev whispered, "Only the curious get chosen, interesting."
 
-"Project Nova is a fully immersive experience. You’ll receive new cases, and each one reflects a real world challenge you might face in a cloud-native environment. But before each case begins, you’ll complete a brief training module. These are delivered directly to your terminal. Complete the module, and then unlock the case."
+"Project Nova is a fully immersive experience. You’ll receive new cases, and each one reflects a real world challenge you might face in a cloud native environment. But before each case begins, you’ll complete a brief training module. These are delivered directly to your terminal. Complete the module, and then unlock the case."
 
 Zara leaned back slightly, arms crossed.
 
@@ -101,7 +101,7 @@ Zara leaned back slightly, arms crossed.
 
 Renzo nodded slightly to himself.
 
-"Training modules will teach you what you need. Cases will show you if you’ve truly learned it."
+"Training modules will teach you what you need to know while the cases will show you if you’ve truly learned it."
 
 The hologram folded down like origami into a single blinking prompt.
 
