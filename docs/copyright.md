@@ -1,23 +1,22 @@
 # Copyright
 
 **© 2025 Reynaldo Linares. All rights reserved.**  
-*Pods & Clues* is an original educational storytelling project created by Reynaldo Linares.
+*Pods & Clues* is an original educational storytelling project created by Reynaldo Linares to make Kubernetes learning fun, accessible, and immersive.
 
-All characters, scripts, training modules, and worldbuilding are authored by Reynaldo as part of an immersive Kubernetes learning experience. The project is designed to teach core cloud engineering concepts through narrative, visuals, and hands-on exploration.
+All characters, training modules, and world-building elements within the Pods & Clues universe are original creations authored by Reynaldo Linares. The project blends narrative, visual design, and hands-on exploration to teach core cloud engineering concepts.
 
-Select visual assets were created using AI-assisted tools, but all were developed under the creative direction and authorship of the creator. This includes:
+Select visual assets were developed using AI-assisted tools, guided entirely by the creator’s direction. This includes:
+- Defining character appearances, personalities, and arcs  
+- Crafting precise visual prompts and providing iterative revisions  
+- Curating and editing outputs to align with the project’s tone, message, and educational purpose
 
-- Defining character designs, personalities, and story arcs  
-- Providing specific visual prompts, revisions, and art style guides  
-- Curating and editing outputs to match the tone, purpose, and educational goals of the series
-
-These assets are part of an original body of work and are protected under applicable copyright law.
+These assets are part of a unified, original body of work and are protected under applicable copyright laws.
 
 ## Usage and Permissions
 
-No part of this content, including visual assets, narrative elements, or structural designs, may be copied, modified, distributed, or used for commercial purposes without the creator’s written permission.
+No part of this content including visuals, stories, training materials, or design structures may be copied, modified, distributed, or used for commercial purposes without prior written consent from the creator.
 
-For collaboration requests, educational licensing, or partnership inquiries, please contact: **rlinares416@gmail.com**
+For collaboration, educational licensing, or partnership inquiries, please contact: **rlinares416@gmail.com**
 
 ---
 
