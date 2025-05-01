@@ -16,7 +16,7 @@ These assets are part of a unified, original body of work and are protected unde
 
 No part of this content including visuals, stories, training materials, or design structures may be copied, modified, distributed, or used for commercial purposes without prior written consent from the creator.
 
-For collaboration, educational licensing, or partnership inquiries, please contact: **rlinares416@gmail.com**
+For collaboration, educational licensing, or partnership inquiries, please contact: [rlinares416@gmail.com](mailto:rlinares416@gmail.com)
 
 ---
 
