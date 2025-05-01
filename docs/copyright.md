@@ -1,4 +1,4 @@
-# Copyright and Creative Attribution
+# Copyright
 
 **© 2025 Reynaldo Linares. All rights reserved.**  
 *Pods & Clues* is an original educational storytelling project created by Reynaldo Linares.
