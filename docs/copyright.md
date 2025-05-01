@@ -15,10 +15,9 @@ These assets are part of an original body of work and are protected under applic
 
 ## Usage and Permissions
 
-No part of this content — visual, narrative, or structural — may be copied, modified, distributed, or used for commercial purposes without written permission from the creator.
+No part of this content, including visual assets, narrative elements, or structural designs, may be copied, modified, distributed, or used for commercial purposes without the creator’s written permission.
 
-For collaboration requests, educational licensing, or partnership inquiries, please contact:  
-**[rlinares416@gmail.com]** *(or link to a contact form)*
+For collaboration requests, educational licensing, or partnership inquiries, please contact: **rlinares416@gmail.com**
 
 ---
 
