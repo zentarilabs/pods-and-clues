@@ -1,4 +1,4 @@
-# 🧩 What Is *Pods & Clues*?
+# 🧩 What Is *Pods & Clues™*?
 
 *Pods & Clues™* is a Kubernetes Mystery Series where every misconfigured pod is a clue… and the debugger is your magnifying glass.
 
