@@ -1,0 +1,51 @@
+<footer class="md-footer" style="text-align: center; font-size: 0.85rem; line-height: 1.6;">
+  <p><strong>Zentari Labs · Project Nova Monitoring Console</strong></p>
+
+  <p style="margin: 0.3rem 0;">
+    Case updates are issued on a need-to-know basis.
+    <br>
+    <a href="https://rebrand.ly/t4n0fr5" target="_blank">Follow Rey Linares on LinkedIn</a> to receive mission-critical alerts.
+  </p>
+
+  <p style="margin-top: 0.8rem; font-size: 0.75rem; padding: 1em; color: var(--md-typeset-color--light);">
+    © 2025 Reynaldo Linares. All rights reserved.
+    Pods & Clues™ and all associated content are original works created by Reynaldo Linares.
+    <a href="/copyright/" style="color: inherit; text-decoration: underline;">Learn more</a>.
+  </p>
+</footer>
+
+
+<div class="feedback-float" onclick="openFeedbackModal()">
+  💬 Give Feedback
+</div>
+
+<!-- Feedback Modal -->
+<div id="feedbackModal" class="feedback-modal">
+  <div class="feedback-modal-content">
+    <span class="feedback-close" onclick="closeFeedbackModal()">&times;</span>
+    <div class="feedback-form-wrapper">
+      <h3>We’d love your feedback!</h3>
+      <p>Spotted a bug? Have a suggestion or even an idea for a future case? Let us know, we’re listening.</p>
+
+      <form id="feedbackForm">
+        <input type="hidden" name="_subject" value="New Feedback from Pods & Clues">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="page_url" id="page-url">
+      
+        <label for="message"><strong>Your message:</strong></label><br>
+        <textarea name="message" rows="6" required placeholder="Tell us what you noticed or your idea..."></textarea><br><br>
+      
+        <label for="email"><strong>Your email (optional):</strong></label><br>
+        <input type="email" name="email" placeholder="you@example.com"><br><br>
+      
+        <button type="submit" id="feedbackSubmitBtn">Submit Feedback</button>
+      </form>
+      
+      <!-- Placeholder for success -->
+      <div id="feedbackSuccess" style="display: none;">
+        <h3>✅ Thank you!</h3>
+        <p>Your feedback was sent successfully.</p>
+      </div>
+    </div>
+  </div>
+</div>
