@@ -4,7 +4,7 @@
 
 ## Zentari Labs Lobby, Arrival
 
-Renzo stepped into Zentari Labs for the first time, his eyes wide as he took in the chrome and glass lobby, sunlight pouring through floor to ceiling windows in soft, futuristic tones. Beside him, Inspector Pupps sat alert but calm, golden curls glowing in the morning light like they belonged here.
+Renzo stepped into Zentari Labs for the first time, his eyes widen as he took in the chrome and glass lobby, sunlight pouring through floor to ceiling windows in soft blues and silver tones that felt almost futuristic. Beside him, Inspector Pupps sat alert but calm, golden curls glowing in the morning light like they belonged here.
 
 Renzo wasn’t so sure he did.
 
@@ -29,7 +29,7 @@ She met Renzo’s eyes and offered a small, composed smile.
 Not overly warm. But real. Like she saw him.
 
 Renzo blinked, caught off guard.
-She looks like she belongs here.
+She looks like she belongs here too.
 
 "Say something", he thought. "Anything. You’re both interns. She probably feels weird too."
 But the words stuck somewhere between his nerves and his throat.
@@ -40,13 +40,13 @@ Dev stepped in, hoodie layered over a t-shirt, jeans, and a bag packed like he w
 
 ![Dev entering the lobby for the first time excited to see other interns](../assets/case-000/dev-lobby.jpg)
 
-“Yo! Project Nova, right?” Dev grinned, his energy already filling the space as he offered a fist bump.
+“Yo! You Nova too?” Dev grinned, his energy already filling the space as he offered a fist bump.
 
 Renzo met it a beat late, but it landed.
 
 Dev had the kind of presence that made the lobby feel just a little less intimidating.
 
-Zara offered a small, friendly smile, then glanced at the shared email on her phone.
+Zara offered a small, friendly smile, then glanced at the welcome email on her phone.
 “Floor 22,” she said. “That’s where we’re headed.”
 
 After checking in, they headed towards the main elevators. Renzo kept pace beside her, fingers brushing the strap of his backpack. The silence wasn’t unfriendly, just expectant. Like the building was holding its breath. Or maybe… he was.
